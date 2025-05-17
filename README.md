@@ -49,8 +49,8 @@ spider-notebook/
 
 ## 📌 相关项目推荐
 
-- [js-spider-crack](https://github.com/你的用户名/js-spider-crack)：主攻 JS 逆向与反调试破解，每日案例拆解
-- [spider-tech-explore](https://github.com/你的用户名/spider-tech-explore)：技术点难关逐个突破，覆盖验证码/加密参数/IP限制等
+- [js-spider-crack](https://github.com/Annyfee/js-spider-reverse)：主攻 JS 逆向与反调试破解，每日案例拆解
+- [spider-tech-explore](https://github.com/Annyfee/spider-defense-bypass)：技术点难关逐个突破，覆盖验证码/加密参数/IP限制等
 
 ---
 

@@ -19,8 +19,7 @@ spider-notebook/
 │   ├── selenium_anti_spider.md
 │   └── ...
 ├── images/                # 配图资源
-├── README.md              # 项目说明
-└── .gitattributes         # 行尾规范（可选）
+└── README.md              # 项目说明
 ```
 
 ---
@@ -49,8 +48,8 @@ spider-notebook/
 
 ## 📌 相关项目推荐
 
-- [js-spider-crack](https://github.com/Annyfee/js-spider-reverse)：主攻 JS 逆向与反调试破解，每日案例拆解
-- [spider-tech-explore](https://github.com/Annyfee/spider-defense-bypass)：技术点难关逐个突破，覆盖验证码/加密参数/IP限制等
+- [spider-js-reverse](https://github.com/Annyfee/spider-js-reverse)：主攻 JS 逆向与反调试破解，每日案例拆解
+- [spider-defense-bypass](https://github.com/Annyfee/spider-defense-bypass)：技术点难关逐个突破，覆盖验证码/加密参数/IP限制等
 
 ---
 

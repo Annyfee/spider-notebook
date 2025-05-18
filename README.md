@@ -15,10 +15,14 @@
 ```
 spider-notebook/
 ├── articles/              # 笔记正文（Markdown 格式）
-│   ├── headers_cookie_note.md
-│   ├── selenium_anti_spider.md
+│   ├── 爬虫基础
+│   │   ├──爬虫入门.md
+│   │   └──...
+│   ├── 爬虫难点
+│   │   └──webpack.md
+│   │   └──...
 │   └── ...
-├── images/                # 配图资源
+├── .gitignore
 └── README.md              # 项目说明
 ```
 

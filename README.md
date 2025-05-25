@@ -28,6 +28,23 @@ spider-notebook/
 └── README.md              # 项目说明
 ```
 
+--- 
+## 博客跳转
+* 爬虫基础
+  * [Cookie与Session](https://blog.csdn.net/2401_87328929/article/details/148097821)
+  * [http协议](https://blog.csdn.net/2401_87328929/article/details/148109062)
+  * [IP代理](https://blog.csdn.net/2401_87328929/article/details/148189096)
+  * [爬取基础流程](https://blog.csdn.net/2401_87328929/article/details/148040696)
+  * [数据解析](https://blog.csdn.net/2401_87328929/article/details/148069059)
+  * [基础入门](https://blog.csdn.net/2401_87328929/article/details/148033186)
+
+* 爬虫工具
+  * [开发者工具](https://blog.csdn.net/2401_87328929/article/details/148041092)
+
+* 爬虫难点
+  * [webpack](https://blog.csdn.net/2401_87328929/article/details/148016081)
+
+--- 
 
 ## ✨ 适合人群
 

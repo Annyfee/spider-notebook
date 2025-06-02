@@ -12,24 +12,7 @@
 
 ---
 
-## 📖 仓库结构
-
-```
-spider-notebook/
-├── articles/              # 笔记正文（Markdown 格式）
-│   ├── 爬虫基础
-│   │   ├──爬虫入门.md
-│   │   └──...
-│   ├── 爬虫难点
-│   │   └──webpack.md
-│   │   └──...
-│   └── ...
-├── .gitignore
-└── README.md              # 项目说明
-```
-
---- 
-## 博客跳转
+## 🚅 博客跳转
 * 爬虫基础
   * [Cookie与Session](https://blog.csdn.net/2401_87328929/article/details/148097821)
   * [http协议](https://blog.csdn.net/2401_87328929/article/details/148109062)
@@ -57,7 +40,7 @@ spider-notebook/
 
 ## 📌 相关项目推荐
 
-- [spider-js-reverse](https://github.com/Annyfee/spider-js-reverse)：主攻 JS 逆向与反调试破解，每日案例拆解
+- [spider-js-reverse](https://github.com/Annyfee/spider-js-reverse)：主攻 JS 逆向与反调试破解，辅以详细图文讲解
 - [spider-defense-bypass](https://github.com/Annyfee/spider-defense-bypass)：技术点难关逐个突破，覆盖验证码/加密参数/IP限制等
 
 ---
